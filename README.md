@@ -1,6 +1,7 @@
 # k3ng_cw_keyer Board
 
-k3ng cw keyer　PCB設計データ
+k3ng cw keyer に使用するPCBの設計データです。
+CPUとしてATmega1284Pを使用したArduinoベースのキーヤーです。
 
 **Still under construction**
 
