@@ -4,7 +4,7 @@ Arduinoベースのキーヤー k3ng cw keyer に使用するPCBの設計デー�
 
 CPUとしてATmega1284Pを使用
 
-**Still under construction**
+**Still under construction**  
 現状は回路図のみ
 
 CC BY-NC-SA 3.0
