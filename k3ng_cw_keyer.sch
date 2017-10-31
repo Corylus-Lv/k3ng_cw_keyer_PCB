@@ -1185,8 +1185,6 @@ F 3 "" H 3550 5150 50  0001 C CNN
 $EndComp
 Text GLabel 3550 5700 3    60   Input ~ 0
 USB5V
-Text GLabel 2550 2450 2    60   Output ~ 0
-USB5V
 Wire Wire Line
 	1900 5300 1950 5300
 Wire Wire Line
@@ -1427,8 +1425,6 @@ Wire Wire Line
 	1600 2350 1700 2350
 Wire Wire Line
 	2000 2350 2300 2350
-Wire Wire Line
-	2550 2450 1600 2450
 Wire Wire Line
 	1850 2650 1600 2650
 $Comp
