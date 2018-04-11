@@ -1,4 +1,4 @@
-update=2017/10/13 17:18:00
+update=2018/04/10 15:44:37
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,9 +23,21 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
+[general]
+version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=C:/Users/h-koyama/Documents/KiCAD/kicad-lib/library
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -59,15 +71,6 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-[general]
-version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
+LibName33=C:/Users/h-koyama/Documents/KiCAD/kicad-lib/library/AJ-1780
+LibName34=PLCC44
+LibName35=MJ373
