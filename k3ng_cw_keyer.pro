@@ -1,4 +1,4 @@
-update=2018/04/10 15:44:37
+update=2018/04/11 16:14:12
 version=1
 last_client=kicad
 [pcbnew]
@@ -37,7 +37,7 @@ LabSize=60
 version=1
 [eeschema]
 version=1
-LibDir=C:/Users/h-koyama/Documents/KiCAD/kicad-lib/library
+LibDir=../kicad-lib/library
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -71,6 +71,5 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-LibName33=C:/Users/h-koyama/Documents/KiCAD/kicad-lib/library/AJ-1780
-LibName34=PLCC44
-LibName35=MJ373
+LibName33=MJ373
+LibName34=AJ-1780

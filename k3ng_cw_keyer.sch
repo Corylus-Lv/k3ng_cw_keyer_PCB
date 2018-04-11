@@ -31,6 +31,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:MJ373
 LIBS:AJ-1780
 LIBS:k3ng_cw_keyer-cache
 EELAYER 25 0
